@@ -16,5 +16,42 @@ namespace ProductAndQualityCodeDifference
         {
             InitializeComponent();
         }
+
+        private void List_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void productBarcode_Click(object sender, EventArgs e)
+        {
+            bool acikmi = false;
+            Form[] acikformlar = this.MdiChildren;
+
+            foreach (Form item in acikformlar)
+            {
+                if (item.GetType() == typeof(cikartilanBarkod))
+                {
+                    acikmi = true;
+                    item.Activate();
+                }
+            }
+
+            if (acikmi == false)
+            {
+                cikartilanBarkod brc = new cikartilanBarkod();
+                brc.MdiParent = this;
+                brc.Show();
+            }
+        }
+
+        private void productControl_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void barcodeBetween_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

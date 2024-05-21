@@ -9,3 +9,6 @@ C:\Users\USER\Documents\GitHub\ProductAndQualityCodeDifference\ProductAndQuality
 C:\Users\USER\Documents\GitHub\ProductAndQualityCodeDifference\ProductAndQualityCodeDifference\bin\Debug\ProductAndQualityCodeDifference.pdb
 C:\Users\USER\Documents\GitHub\ProductAndQualityCodeDifference\ProductAndQualityCodeDifference\obj\Debug\ProductAndQualityCodeDifference.exe
 C:\Users\USER\Documents\GitHub\ProductAndQualityCodeDifference\ProductAndQualityCodeDifference\obj\Debug\ProductAndQualityCodeDifference.pdb
+C:\Users\USER\Documents\GitHub\ProductAndQualityCodeDifference\ProductAndQualityCodeDifference\bin\Debug\DataAccessLayer.dll
+C:\Users\USER\Documents\GitHub\ProductAndQualityCodeDifference\ProductAndQualityCodeDifference\bin\Debug\DataAccessLayer.pdb
+C:\Users\USER\Documents\GitHub\ProductAndQualityCodeDifference\ProductAndQualityCodeDifference\obj\Debug\ProductAndQualityCodeDifference.csproj.CopyComplete

@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cikartilanBarkod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cikartilanBarkod.Designer.cs">
+      <DependentUpon>cikartilanBarkod.cs</DependentUpon>
+    </Compile>
     <Compile Include="List.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,17 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{1273d4ed-e4c4-4662-9aaf-53c9513557e0}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\icon\barcode-product.png" />
+    <Content Include="images\icon\product.png" />
+    <Content Include="images\icon\transfer-data-between-documents.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

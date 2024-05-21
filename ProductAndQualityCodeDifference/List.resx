@@ -117,4 +117,41 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="productBarcode.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
+        WgAAAFoBBySI6wAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADWSURBVDhP7dO/
+        CkFhGMfxE7KJXIHEohgMGJQiJQblb1aDAflTLkIxmFyAyeYWjC7B6E6O709PMpyBDBanPr2/857nfTp1
+        nuO4rvsVz81P6LpggCXm6OKEsa0FqOaIvmXV7KHnjtro8BYb6OANa1trUM0VC8sTnKHn/wa28fsGmoMZ
+        pmhB33xkaw4qPqBjuY0dng0i8MFv0xWQlxyyHMSj1u6fDfLQlDUQRhVDxFDHCpq+NPS2TcuPBhrNKHpI
+        IY4yikiighLULIEMspZPnj/IJzw33+c6d30qNAp3wp2jAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="barcodeBetween.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAB
+        eQAAAXkBnwDpkQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEeSURBVDhPpdM9
+        L0RBFIDh2WobhUIh21gSrATZViE+QotEYtWSbWgE/8EfUGj8UsX1vtfM5txhJbLFcz/OPWfmzldqmmYh
+        3ZeUetjDLh7xjje84gq9mN/WdF5SesAnnjAK8T4m+MCwqknLOMQxTLrMz4OQNMARznEDv1tjbbqHCauV
+        OyxlUwyxFqzDP06T+Euh1zG2s/GcHP843cJJ814cwAZGmc/GYk6paS8rKMlySHUDxmKONbMGHLNJhWOs
+        GyixwppZAwsNYd4kbsJe/5rEMy+/LeMWXnKSy+iSxu86xQU6G8lN4mbZr3qygxNcw6Uzd6P9ViW6Wdyu
+        JvVD3Hl4htt82qmJL23g+0B5cDxAHiQPlAfLSdv5kV8H/qdJXyYdNMVWVlgnAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="productControl.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
+        XAAAAFwBhyfMcAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFMSURBVDhPjZLB
+        SgJhFIWvuItw4cZwFZjgQlzYCxi4iFol7VpKaAuDiILoAVRcBEIStegFgp6i55rON9z5udYECd9w/nvO
+        +eefcSzLsj/Rbw/KvILfA7O6uBFP4t5BM6uX5G1XtMJgIl4EpamDZjYJuZaga2fii4UbFDquL8B1R0xd
+        U6RD1x7ErWiXbHAMJRu0BR26thQzkT+Gfv/ZgOPToZtfPsS7OBCHYi3uxJWDZoZHhiydtMGJOBcb7uB3
+        aQruAs0w3wiydPINFm7MxaU4KsI/wfPM3NcLLteiH0IcNf2tYc5zr8O6L+haVbyKhhs7YlUEQ2GF57oh
+        6FQLs8YghD/FKKxHzMKaci3XYTgWj4KXdCr4+jgNoJnhkRmnXtiANzp0PRBvYt9BD9wbimXqJWHWFXzv
+        z4IjV4JX8RkemW7yCuHBXlyXsZ3J7BuBEmfg3oP25wAAAABJRU5ErkJggg==
+</value>
+  </data>
 </root>
